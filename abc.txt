@@ -1,5 +1,4 @@
 Hello
 this is abc text file
 this is created for practice purpose
-To practice stash concepts
-"these are the lines to check for stash"
+
