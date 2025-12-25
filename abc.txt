@@ -6,3 +6,4 @@ this is created for practice purpose
 3rd line added
 another lie
 to check revert command
+checl for reset command
