@@ -1,4 +1,6 @@
 Hello
 this is abc text file
 this is created for practice purpose
-
+1st line added
+2nd line added
+3rd line added
