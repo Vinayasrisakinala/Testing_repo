@@ -6,5 +6,3 @@ this is created for practice purpose
 3rd line added
 another lie
 to check revert command
-
-new line addeddddddddd
